@@ -1,0 +1,21 @@
+body{
+    margin-left: 400px;
+    margin-top: 150px;
+   
+}
+.box{
+    width: 100px;
+    display:grid;
+    grid-template-columns: repeat(8,1fr);
+    grid-template-rows: repeat(8,1fr);
+    height: 350px;
+    width: 350px;
+}
+.color1{
+    
+    background-color: #f0d9b5;
+}
+.color2{
+    
+    background-color: rgba(0, 0, 0, 0.836);
+}
