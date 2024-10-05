@@ -1,1 +1,1 @@
-# mini-project
+# html and css files
